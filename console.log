@@ -1,0 +1,238 @@
+2024-03-23T09:36:40.743+08:00  INFO 20712 --- [main] org.example.ToolDemoApplication          : Starting ToolDemoApplication using Java 17.0.8 with PID 20712 (D:\个人项目\技术栈\springboot\ParameterLogTool\ParameterLogTool-demo\target\classes started by Cary in D:\个人项目\技术栈\springboot\ParameterLogTool)
+2024-03-23T09:36:40.751+08:00  INFO 20712 --- [main] org.example.ToolDemoApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-03-23T09:36:44.809+08:00  INFO 20712 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 7210 (http)
+2024-03-23T09:36:45.085+08:00  INFO 20712 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 4205 ms
+2024-03-23T09:36:47.190+08:00  INFO 20712 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 7210 (http) with context path ''
+2024-03-23T09:36:47.253+08:00  INFO 20712 --- [main] org.example.ToolDemoApplication          : Started ToolDemoApplication in 7.776 seconds (process running for 24.19)
+2024-03-23T11:59:28.091+08:00  INFO 26736 --- [main] org.example.ToolDemoApplication          : Starting ToolDemoApplication using Java 17.0.8 with PID 26736 (D:\个人项目\技术栈\springboot\ParameterLogTool\ParameterLogTool-demo\target\classes started by Cary in D:\个人项目\技术栈\springboot\ParameterLogTool)
+2024-03-23T11:59:28.093+08:00  INFO 26736 --- [main] org.example.ToolDemoApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-03-23T11:59:28.798+08:00  INFO 26736 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 7210 (http)
+2024-03-23T11:59:28.807+08:00  INFO 26736 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-23T11:59:28.807+08:00  INFO 26736 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-23T11:59:28.841+08:00  INFO 26736 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-23T11:59:28.842+08:00  INFO 26736 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 717 ms
+2024-03-23T11:59:29.131+08:00  INFO 26736 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 7210 (http) with context path ''
+2024-03-23T11:59:29.136+08:00  INFO 26736 --- [main] org.example.ToolDemoApplication          : Started ToolDemoApplication in 1.386 seconds (process running for 1.851)
+2024-03-23T12:00:02.920+08:00  INFO 4040 --- [main] org.example.ToolDemoApplication          : Starting ToolDemoApplication using Java 17.0.8 with PID 4040 (D:\个人项目\技术栈\springboot\ParameterLogTool\ParameterLogTool-demo\target\classes started by Cary in D:\个人项目\技术栈\springboot\ParameterLogTool)
+2024-03-23T12:00:02.922+08:00  INFO 4040 --- [main] org.example.ToolDemoApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-03-23T12:00:03.579+08:00  INFO 4040 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 7210 (http)
+2024-03-23T12:00:03.586+08:00  INFO 4040 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-23T12:00:03.586+08:00  INFO 4040 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-23T12:00:03.616+08:00  INFO 4040 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-23T12:00:03.617+08:00  INFO 4040 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 663 ms
+2024-03-23T12:00:03.860+08:00  INFO 4040 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 7210 (http) with context path ''
+2024-03-23T12:00:03.865+08:00  INFO 4040 --- [main] org.example.ToolDemoApplication          : Started ToolDemoApplication in 1.259 seconds (process running for 1.625)
+2024-03-23T12:02:53.796+08:00  INFO 20332 --- [main] org.example.ToolDemoApplication          : Starting ToolDemoApplication using Java 17.0.8 with PID 20332 (D:\个人项目\技术栈\springboot\ParameterLogTool\ParameterLogTool-demo\target\classes started by Cary in D:\个人项目\技术栈\springboot\ParameterLogTool)
+2024-03-23T12:02:53.802+08:00  INFO 20332 --- [main] org.example.ToolDemoApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-03-23T12:02:54.440+08:00  INFO 20332 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 7210 (http)
+2024-03-23T12:02:54.448+08:00  INFO 20332 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-23T12:02:54.448+08:00  INFO 20332 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-23T12:02:54.479+08:00  INFO 20332 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-23T12:02:54.479+08:00  INFO 20332 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 643 ms
+2024-03-23T12:02:54.718+08:00  INFO 20332 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 7210 (http) with context path ''
+2024-03-23T12:02:54.724+08:00  INFO 20332 --- [main] org.example.ToolDemoApplication          : Started ToolDemoApplication in 1.238 seconds (process running for 1.593)
+2024-03-23T12:04:13.158+08:00  INFO 27876 --- [main] org.example.ToolDemoApplication          : Starting ToolDemoApplication using Java 17.0.8 with PID 27876 (D:\个人项目\技术栈\springboot\ParameterLogTool\ParameterLogTool-demo\target\classes started by Cary in D:\个人项目\技术栈\springboot\ParameterLogTool)
+2024-03-23T12:04:13.160+08:00  INFO 27876 --- [main] org.example.ToolDemoApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-03-23T12:04:13.834+08:00  INFO 27876 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 7210 (http)
+2024-03-23T12:04:13.841+08:00  INFO 27876 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-23T12:04:13.842+08:00  INFO 27876 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-23T12:04:13.874+08:00  INFO 27876 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-23T12:04:13.874+08:00  INFO 27876 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 679 ms
+2024-03-23T12:04:14.140+08:00  INFO 27876 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 7210 (http) with context path ''
+2024-03-23T12:04:14.146+08:00  INFO 27876 --- [main] org.example.ToolDemoApplication          : Started ToolDemoApplication in 1.301 seconds (process running for 1.668)
+2024-03-23T12:04:54.539+08:00  INFO 20052 --- [main] org.example.ToolDemoApplication          : Starting ToolDemoApplication using Java 17.0.8 with PID 20052 (D:\个人项目\技术栈\springboot\ParameterLogTool\ParameterLogTool-demo\target\classes started by Cary in D:\个人项目\技术栈\springboot\ParameterLogTool)
+2024-03-23T12:04:54.541+08:00  INFO 20052 --- [main] org.example.ToolDemoApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-03-23T12:04:55.229+08:00  INFO 20052 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 7210 (http)
+2024-03-23T12:04:55.237+08:00  INFO 20052 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-23T12:04:55.237+08:00  INFO 20052 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-23T12:04:55.269+08:00  INFO 20052 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-23T12:04:55.269+08:00  INFO 20052 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 698 ms
+2024-03-23T12:04:55.523+08:00  INFO 20052 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 7210 (http) with context path ''
+2024-03-23T12:04:55.528+08:00  INFO 20052 --- [main] org.example.ToolDemoApplication          : Started ToolDemoApplication in 1.305 seconds (process running for 1.66)
+2024-03-23T13:43:08.406+08:00  INFO 19324 --- [main] org.example.ToolDemoApplication          : Starting ToolDemoApplication using Java 17.0.8 with PID 19324 (D:\个人项目\技术栈\springboot\ParameterLogTool\ParameterLogTool-demo\target\classes started by Cary in D:\个人项目\技术栈\springboot\ParameterLogTool)
+2024-03-23T13:43:08.409+08:00  INFO 19324 --- [main] org.example.ToolDemoApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-03-23T13:43:09.081+08:00  INFO 19324 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 7210 (http)
+2024-03-23T13:43:09.089+08:00  INFO 19324 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-23T13:43:09.089+08:00  INFO 19324 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-23T13:43:09.120+08:00  INFO 19324 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-23T13:43:09.120+08:00  INFO 19324 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 675 ms
+2024-03-23T13:43:09.370+08:00  INFO 19324 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 7210 (http) with context path ''
+2024-03-23T13:43:09.376+08:00  INFO 19324 --- [main] org.example.ToolDemoApplication          : Started ToolDemoApplication in 1.278 seconds (process running for 1.75)
+2024-03-23T13:43:12.906+08:00  INFO 19324 --- [http-nio-7210-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-03-23T13:43:12.906+08:00  INFO 19324 --- [http-nio-7210-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-03-23T13:43:12.907+08:00  INFO 19324 --- [http-nio-7210-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-03-23T13:43:12.934+08:00 ERROR 19324 --- [http-nio-7210-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.RuntimeException: java.lang.NoSuchMethodException: org.example.controller.ToolDemoController.test(java.lang.String,java.lang.String)] with root cause
+
+java.lang.NoSuchMethodException: org.example.controller.ToolDemoController.test(java.lang.String,java.lang.String)
+	at java.base/java.lang.Class.getMethod(Class.java:2227) ~[na:na]
+	at org.example.service.ToolDemoService.processMethodParameters(ToolDemoService.java:19) ~[classes/:na]
+	at org.example.controller.ToolDemoController.test(ToolDemoController.java:25) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:351) ~[spring-aop-6.1.4.jar:6.1.4]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196) ~[spring-aop-6.1.4.jar:6.1.4]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163) ~[spring-aop-6.1.4.jar:6.1.4]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765) ~[spring-aop-6.1.4.jar:6.1.4]
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:89) ~[spring-aop-6.1.4.jar:6.1.4]
+	at org.example.starter.ToolAspect.ruleFUNC(ToolAspect.java:34) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:637) ~[spring-aop-6.1.4.jar:6.1.4]
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:627) ~[spring-aop-6.1.4.jar:6.1.4]
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:71) ~[spring-aop-6.1.4.jar:6.1.4]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:173) ~[spring-aop-6.1.4.jar:6.1.4]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765) ~[spring-aop-6.1.4.jar:6.1.4]
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97) ~[spring-aop-6.1.4.jar:6.1.4]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184) ~[spring-aop-6.1.4.jar:6.1.4]
+	at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:765) ~[spring-aop-6.1.4.jar:6.1.4]
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:717) ~[spring-aop-6.1.4.jar:6.1.4]
+	at org.example.controller.ToolDemoController$$SpringCGLIB$$0.test(<generated>) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:259) ~[spring-web-6.1.4.jar:6.1.4]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:192) ~[spring-web-6.1.4.jar:6.1.4]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.1.4.jar:6.1.4]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:920) ~[spring-webmvc-6.1.4.jar:6.1.4]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:830) ~[spring-webmvc-6.1.4.jar:6.1.4]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.1.4.jar:6.1.4]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089) ~[spring-webmvc-6.1.4.jar:6.1.4]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979) ~[spring-webmvc-6.1.4.jar:6.1.4]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.1.4.jar:6.1.4]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.1.4.jar:6.1.4]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[tomcat-embed-core-10.1.19.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.1.4.jar:6.1.4]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.19.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.19.jar:10.1.19]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.4.jar:6.1.4]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.4.jar:6.1.4]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.4.jar:6.1.4]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.4.jar:6.1.4]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.4.jar:6.1.4]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.4.jar:6.1.4]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.19.jar:10.1.19]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+
+2024-03-23T13:44:44.767+08:00  INFO 17588 --- [main] org.example.ToolDemoApplication          : Starting ToolDemoApplication using Java 17.0.8 with PID 17588 (D:\个人项目\技术栈\springboot\ParameterLogTool\ParameterLogTool-demo\target\classes started by Cary in D:\个人项目\技术栈\springboot\ParameterLogTool)
+2024-03-23T13:44:44.769+08:00  INFO 17588 --- [main] org.example.ToolDemoApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-03-23T13:44:45.418+08:00  INFO 17588 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 7210 (http)
+2024-03-23T13:44:45.426+08:00  INFO 17588 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-23T13:44:45.426+08:00  INFO 17588 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-23T13:44:45.457+08:00  INFO 17588 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-23T13:44:45.457+08:00  INFO 17588 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 653 ms
+2024-03-23T13:44:45.703+08:00  INFO 17588 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 7210 (http) with context path ''
+2024-03-23T13:44:45.708+08:00  INFO 17588 --- [main] org.example.ToolDemoApplication          : Started ToolDemoApplication in 1.241 seconds (process running for 1.598)
+2024-03-23T13:44:48.877+08:00  INFO 17588 --- [http-nio-7210-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-03-23T13:44:48.878+08:00  INFO 17588 --- [http-nio-7210-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-03-23T13:44:48.878+08:00  INFO 17588 --- [http-nio-7210-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-03-23T13:44:48.902+08:00  INFO 17588 --- [http-nio-7210-exec-1] org.example.starter.ToolAspect           : 获取到方法入参参数=[测试],出参参数=output parameter
+2024-03-23T16:18:14.296+08:00  INFO 7576 --- [main] org.example.ToolDemoApplication          : Starting ToolDemoApplication using Java 17.0.8 with PID 7576 (D:\个人项目\技术栈\springboot\ParameterLogTool\ParameterLogTool-demo\target\classes started by Cary in D:\个人项目\技术栈\springboot\ParameterLogTool)
+2024-03-23T16:18:14.297+08:00  INFO 7576 --- [main] org.example.ToolDemoApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-03-23T16:18:14.957+08:00  INFO 7576 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 7210 (http)
+2024-03-23T16:18:14.964+08:00  INFO 7576 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-23T16:18:14.964+08:00  INFO 7576 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-23T16:18:14.995+08:00  INFO 7576 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-23T16:18:14.996+08:00  INFO 7576 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 666 ms
+2024-03-23T16:18:15.255+08:00  INFO 7576 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 7210 (http) with context path ''
+2024-03-23T16:18:15.261+08:00  INFO 7576 --- [main] org.example.ToolDemoApplication          : Started ToolDemoApplication in 1.283 seconds (process running for 1.641)
+2024-03-23T16:18:18.339+08:00  INFO 7576 --- [http-nio-7210-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-03-23T16:18:18.340+08:00  INFO 7576 --- [http-nio-7210-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-03-23T16:18:18.340+08:00  INFO 7576 --- [http-nio-7210-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-03-23T16:18:18.367+08:00  INFO 7576 --- [http-nio-7210-exec-1] org.example.starter.ToolAspect           : 获取到方法入参参数=[测试],出参参数=output parameter
+2024-03-23T16:18:43.311+08:00  INFO 7576 --- [http-nio-7210-exec-5] org.example.starter.ToolAspect           : 获取到方法入参参数=[测试],出参参数=output parameter
+2024-03-23T16:19:50.647+08:00  INFO 10392 --- [main] org.example.ToolDemoApplication          : Starting ToolDemoApplication using Java 17.0.8 with PID 10392 (D:\个人项目\技术栈\springboot\ParameterLogTool\ParameterLogTool-demo\target\classes started by Cary in D:\个人项目\技术栈\springboot\ParameterLogTool)
+2024-03-23T16:19:50.649+08:00  INFO 10392 --- [main] org.example.ToolDemoApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-03-23T16:19:51.309+08:00  INFO 10392 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 7210 (http)
+2024-03-23T16:19:51.318+08:00  INFO 10392 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-23T16:19:51.318+08:00  INFO 10392 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-23T16:19:51.350+08:00  INFO 10392 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-23T16:19:51.350+08:00  INFO 10392 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 669 ms
+2024-03-23T16:19:51.602+08:00  INFO 10392 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 7210 (http) with context path ''
+2024-03-23T16:19:51.608+08:00  INFO 10392 --- [main] org.example.ToolDemoApplication          : Started ToolDemoApplication in 1.274 seconds (process running for 1.632)
+2024-03-23T16:19:55.680+08:00  INFO 10392 --- [http-nio-7210-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-03-23T16:19:55.680+08:00  INFO 10392 --- [http-nio-7210-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-03-23T16:19:55.681+08:00  INFO 10392 --- [http-nio-7210-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-03-23T16:19:55.706+08:00  INFO 10392 --- [http-nio-7210-exec-1] org.example.starter.ToolAspect           : 获取到方法入参参数=[测试],出参参数=output parameter
+2024-03-23T16:20:09.411+08:00  INFO 14592 --- [main] org.example.ToolDemoApplication          : Starting ToolDemoApplication using Java 17.0.8 with PID 14592 (D:\个人项目\技术栈\springboot\ParameterLogTool\ParameterLogTool-demo\target\classes started by Cary in D:\个人项目\技术栈\springboot\ParameterLogTool)
+2024-03-23T16:20:09.413+08:00  INFO 14592 --- [main] org.example.ToolDemoApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-03-23T16:20:10.159+08:00  INFO 14592 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 7210 (http)
+2024-03-23T16:20:10.165+08:00  INFO 14592 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-23T16:20:10.166+08:00  INFO 14592 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-23T16:20:10.196+08:00  INFO 14592 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-23T16:20:10.196+08:00  INFO 14592 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 748 ms
+2024-03-23T16:20:10.480+08:00  INFO 14592 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 7210 (http) with context path ''
+2024-03-23T16:20:10.486+08:00  INFO 14592 --- [main] org.example.ToolDemoApplication          : Started ToolDemoApplication in 1.415 seconds (process running for 1.816)
+2024-03-23T16:20:14.494+08:00  INFO 14592 --- [http-nio-7210-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-03-23T16:20:14.495+08:00  INFO 14592 --- [http-nio-7210-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-03-23T16:20:14.495+08:00  INFO 14592 --- [http-nio-7210-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-03-23T16:20:14.524+08:00  INFO 14592 --- [http-nio-7210-exec-1] org.example.starter.ToolAspect           : 获取到方法入参参数=[测试],出参参数=output parameter
+2024-03-23T16:22:29.092+08:00  INFO 14592 --- [http-nio-7210-exec-2] org.example.starter.ToolAspect           : 获取到方法入参参数=[测试],出参参数=output parameter
+2024-03-23T16:22:32.592+08:00  INFO 14592 --- [http-nio-7210-exec-4] org.example.starter.ToolAspect           : 获取到方法入参参数=[测试],出参参数=output parameter
+2024-03-23T16:23:03.940+08:00  INFO 16428 --- [main] org.example.ToolDemoApplication          : Starting ToolDemoApplication using Java 17.0.8 with PID 16428 (D:\个人项目\技术栈\springboot\ParameterLogTool\ParameterLogTool-demo\target\classes started by Cary in D:\个人项目\技术栈\springboot\ParameterLogTool)
+2024-03-23T16:23:03.942+08:00  INFO 16428 --- [main] org.example.ToolDemoApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-03-23T16:23:04.663+08:00  INFO 16428 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 7210 (http)
+2024-03-23T16:23:04.670+08:00  INFO 16428 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-23T16:23:04.671+08:00  INFO 16428 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-23T16:23:04.701+08:00  INFO 16428 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-23T16:23:04.701+08:00  INFO 16428 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 724 ms
+2024-03-23T16:23:04.955+08:00  INFO 16428 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 7210 (http) with context path ''
+2024-03-23T16:23:04.960+08:00  INFO 16428 --- [main] org.example.ToolDemoApplication          : Started ToolDemoApplication in 1.332 seconds (process running for 1.684)
+2024-03-23T16:23:06.510+08:00  INFO 16428 --- [http-nio-7210-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-03-23T16:23:06.510+08:00  INFO 16428 --- [http-nio-7210-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-03-23T16:23:06.511+08:00  INFO 16428 --- [http-nio-7210-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-03-23T16:23:06.537+08:00  INFO 16428 --- [http-nio-7210-exec-1] org.example.starter.ToolAspect           : 获取到方法入参参数=[测试],出参参数=output parameter
+2024-03-23T16:29:10.438+08:00  INFO 28540 --- [main] org.example.ToolDemoApplication          : Starting ToolDemoApplication using Java 17.0.8 with PID 28540 (D:\个人项目\技术栈\springboot\ParameterLogTool\ParameterLogTool-demo\target\classes started by Cary in D:\个人项目\技术栈\springboot\ParameterLogTool)
+2024-03-23T16:29:10.439+08:00  INFO 28540 --- [main] org.example.ToolDemoApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-03-23T16:29:11.103+08:00  INFO 28540 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 7210 (http)
+2024-03-23T16:29:11.111+08:00  INFO 28540 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-23T16:29:11.111+08:00  INFO 28540 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-23T16:29:11.144+08:00  INFO 28540 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-23T16:29:11.144+08:00  INFO 28540 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 672 ms
+2024-03-23T16:29:11.390+08:00  INFO 28540 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 7210 (http) with context path ''
+2024-03-23T16:29:11.396+08:00  INFO 28540 --- [main] org.example.ToolDemoApplication          : Started ToolDemoApplication in 1.268 seconds (process running for 1.621)
+2024-03-23T16:29:13.650+08:00  INFO 28540 --- [http-nio-7210-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-03-23T16:29:13.651+08:00  INFO 28540 --- [http-nio-7210-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-03-23T16:29:13.651+08:00  INFO 28540 --- [http-nio-7210-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-03-23T16:29:13.677+08:00  INFO 28540 --- [http-nio-7210-exec-1] org.example.starter.ToolAspect           : 获取到方法入参参数=[测试],出参参数=output parameter
+2024-03-23T16:29:31.019+08:00  INFO 3928 --- [main] org.example.ToolDemoApplication          : Starting ToolDemoApplication using Java 17.0.8 with PID 3928 (D:\个人项目\技术栈\springboot\ParameterLogTool\ParameterLogTool-demo\target\classes started by Cary in D:\个人项目\技术栈\springboot\ParameterLogTool)
+2024-03-23T16:29:31.020+08:00  INFO 3928 --- [main] org.example.ToolDemoApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-03-23T16:29:31.677+08:00  INFO 3928 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 7210 (http)
+2024-03-23T16:29:31.685+08:00  INFO 3928 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-03-23T16:29:31.685+08:00  INFO 3928 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.19]
+2024-03-23T16:29:31.719+08:00  INFO 3928 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-03-23T16:29:31.719+08:00  INFO 3928 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 664 ms
+2024-03-23T16:29:31.970+08:00  INFO 3928 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 7210 (http) with context path ''
+2024-03-23T16:29:31.975+08:00  INFO 3928 --- [main] org.example.ToolDemoApplication          : Started ToolDemoApplication in 1.262 seconds (process running for 1.616)
+2024-03-23T16:29:32.726+08:00  INFO 3928 --- [http-nio-7210-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-03-23T16:29:32.726+08:00  INFO 3928 --- [http-nio-7210-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-03-23T16:29:32.727+08:00  INFO 3928 --- [http-nio-7210-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-03-23T16:29:32.761+08:00  INFO 3928 --- [http-nio-7210-exec-1] org.example.starter.ToolAspect           : 获取到方法入参参数=[测试],出参参数=output parameter

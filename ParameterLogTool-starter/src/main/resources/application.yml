@@ -1,0 +1,10 @@
+logging:
+  pattern:
+    console: '%d{yyyy-MM-dd HH:mm:ss} %-5level [%thread] %logger{15} : %msg%n'
+  file:
+    name: console.log
+    path: D:\个人项目\技术栈\springboot\ParameterLogTool/
+  level:
+    root: info
+    sql: info
+    web: info
